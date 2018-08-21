@@ -1,2 +1,2 @@
 # hello-world
-hi this is  a short description
+This is the first readme text in GIT HUB
